@@ -34,7 +34,7 @@
   <div class = "PersonalInfo" id = "Home">
     <!--Imagen-->
     <div style=" width: 30%;">
-      <img loading="lazy" src="Images/AngelBlasco_Profile.webp" alt="Foto_Angel" style = "width: 100%; border: 2px solid black;">
+      <img loading="lazy" src="Images/AngelBlasco_Profile.webp" alt="Foto_Angel" style = "width: 60%; border: 2px solid black;">
       <div>A picture of me in a secret place</div>
     </div>
     
@@ -53,10 +53,13 @@
 	<a href="https://angelblasco.github.io/rlweb/">Web link</a></a>
         </a>
         </a>
-	<br><br>
+
       </div>
+      <br><br>
       I completed my Master's Degree in Advanced Mathematics by Universidad Nacional de Educacion a Distancia in 2024 with a Master Thesis about Modular Group.
       <br><br>
+
+      </div>
 
       <br>
       <h1><b>Links</b></h1>
